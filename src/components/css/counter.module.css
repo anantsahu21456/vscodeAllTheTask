@@ -1,0 +1,36 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body
+{
+    width: 100%;
+}
+.bhai
+{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 50px auto;
+    background-color: rgba(221, 244, 8, 0.852);
+
+}
+button
+{
+    /* margin: 50px auto; */
+    margin-left: 60px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    height: 20px;
+    width: 60px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.bhai h1
+{
+    margin-left: 20px;
+}

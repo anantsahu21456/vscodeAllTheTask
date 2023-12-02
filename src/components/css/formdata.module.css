@@ -1,0 +1,66 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    /* background-image: url("https://cdn.pixabay.com/photo/2016/09/08/22/43/books-1655783_1280.jpg"); */
+    background-position: 100%;
+    background-size: 100%;
+}
+.main
+{
+    width: 500px;
+    height: 500px;
+    border: 1px solid hotpink;
+    border-radius: 10px;
+    margin-top: 80px;
+    /* margin: 50px auto; */
+    /* margin-top: 50px; */
+    background-color: rgb(238, 252, 252);
+}
+#heading1{
+    width: 250px;
+    height: 40px;
+    padding-top: 8px;
+    border: 2px solid rgb(165, 242, 65);
+    margin-left: 100px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.main1
+{
+    width: 470px;
+    height: 430px;
+    border: .5px solid rgba(164, 120, 129, 0.297);
+    border-radius: 10px;
+    margin-left: 13px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 10px 5px rgba(236, 177, 177, 0.39);
+}
+input
+{
+ margin-left: 20px;
+ margin-top: 10px;
+ width: 400px;
+ border-radius: 2px;
+ height: 35px;
+ background-color: rgba(156, 188, 197, 0.217);
+}
+
+#btn1
+{
+    margin-left: 100px;
+    margin-top: 15px;
+    border: 3px solid red;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+}
